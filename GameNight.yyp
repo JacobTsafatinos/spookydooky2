@@ -1654,6 +1654,25 @@
             }
         },
         {
+            "Key": "6f015ce8-51d9-48ee-b480-0bf5407ba13b",
+            "Value": {
+                "id": "232ef499-53f0-4961-ba4a-e55391bd0fc3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_pyro_skull\/s_pyro_skull.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70381dfb-4c5e-40d2-82b4-e50ea6ee2712",
             "Value": {
                 "id": "c399dd6d-b4b3-4dc5-9b07-fb8ddba41e26",
