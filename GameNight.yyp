@@ -1388,6 +1388,25 @@
             }
         },
         {
+            "Key": "5f0c5d8f-99b2-420d-b3fe-803e49ae9539",
+            "Value": {
+                "id": "8ccda705-5ed5-4632-ab86-20917790c258",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite63\/sprite63.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5f392e65-4e33-42c9-b911-25f97d4ea2ed",
             "Value": {
                 "id": "20744e8c-d258-4c2a-9123-cfc471f0e102",
@@ -1650,6 +1669,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/s_font\/s_font.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f015ce8-51d9-48ee-b480-0bf5407ba13b",
+            "Value": {
+                "id": "232ef499-53f0-4961-ba4a-e55391bd0fc3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_pyro_skull\/s_pyro_skull.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3304,6 +3342,25 @@
                 ],
                 "resourcePath": "objects\/o_colton\/o_colton.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e4d823bd-1e2d-4b83-be0b-6c722707bd81",
+            "Value": {
+                "id": "5dd7e433-d98f-4ad6-918e-be9a94521de6",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprite64\/sprite64.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
