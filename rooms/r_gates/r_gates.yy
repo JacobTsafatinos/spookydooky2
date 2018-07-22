@@ -21,15 +21,42 @@
         "592d53c2-0d25-42aa-93f8-4526049f5d2b",
         "99697e74-6035-4e0f-81cf-f623d5d06158",
         "e895d655-bc00-43f4-96e6-f73faa5b89c1",
-        "00033284-e3b2-458e-a4ed-1e7fecd904eb"
+        "00033284-e3b2-458e-a4ed-1e7fecd904eb",
+        "23f4d742-90f9-4b66-9014-5b991da82c7b"
     ],
     "IsDnD": false,
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Text",
+            "id": "63b7859b-f79d-4a7c-818f-460a4d2a7433",
+            "depth": 1500,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": true,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Effects",
             "id": "42234827-7bd5-45e8-9273-9098f679236a",
-            "depth": 0,
+            "depth": 1600,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -55,7 +82,7 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "2569ebff-b9e8-4370-a288-fda834c11ca5",
-            "depth": 100,
+            "depth": 1700,
             "grid_x": 16,
             "grid_y": 16,
             "hierarchyFrozen": false,
@@ -79,7 +106,8 @@
 {"name": "inst_28B54404","id": "592d53c2-0d25-42aa-93f8-4526049f5d2b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_28B54404","objId": "1d11c652-3bf7-45b6-81d7-49eb69036c23","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 176,"y": 48},
 {"name": "i_game_start","id": "99697e74-6035-4e0f-81cf-f623d5d06158","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_game_start","objId": "886958b8-e414-47c2-b30b-27fda5fb5655","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 16,"y": 80},
 {"name": "inst_76E02250","id": "e895d655-bc00-43f4-96e6-f73faa5b89c1","colour": { "Value": 4294967295 },"creationCodeFile": "InstanceCreationCode_inst_76E02250.gml","creationCodeType": ".gml","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_76E02250","objId": "3b012546-8401-40bb-a88e-d994baa59e75","properties": null,"rotation": 0,"scaleX": 2,"scaleY": 1,"mvc": "1.0","x": 224,"y": -16},
-{"name": "i_graveyard_to_gates","id": "00033284-e3b2-458e-a4ed-1e7fecd904eb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_graveyard_to_gates","objId": "886958b8-e414-47c2-b30b-27fda5fb5655","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 240,"y": 16}
+{"name": "i_graveyard_to_gates","id": "00033284-e3b2-458e-a4ed-1e7fecd904eb","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "i_graveyard_to_gates","objId": "886958b8-e414-47c2-b30b-27fda5fb5655","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 240,"y": 16},
+{"name": "inst_6943BD9F","id": "23f4d742-90f9-4b66-9014-5b991da82c7b","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6943BD9F","objId": "0d820cf7-0eba-437d-8152-d0dfd6bb3d96","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 208,"y": 64}
             ],
             "layers": [
 
@@ -95,7 +123,7 @@
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Dirtwalls",
             "id": "bc0f10b5-ac02-4d16-a446-06ddcdc2185c",
-            "depth": 200,
+            "depth": 1800,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -134,7 +162,7 @@
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Dirtpath",
             "id": "e30b1685-7647-494d-8120-c3999b76f3d8",
-            "depth": 300,
+            "depth": 1900,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -179,7 +207,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 400,
+            "depth": 2000,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,

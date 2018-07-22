@@ -1,7 +1,8 @@
 
 /// Draw Textbox
-draw_sprite(s_textbox, 0, x, y);
+draw_sprite(s_box, 0, x, y);
 
 /// Draw Text
-text = "Hello world it me, colton"
-draw_text(x, y, text);
+draw_set_font(fnt_text);
+
+draw_text_ext(x, y, text, stringHeight, boxWidth);
