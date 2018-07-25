@@ -1312,6 +1312,25 @@
             }
         },
         {
+            "Key": "55d9764e-7da9-4e0d-8ac2-9821798220bd",
+            "Value": {
+                "id": "9e40eef4-ed70-437f-8328-a3850a7ac706",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_pyro_skull\/o_pyro_skull.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5824542f-03b8-41e0-a148-aa6f002b7e2e",
             "Value": {
                 "id": "8156f60d-7ccd-4efa-affa-3985564eb417",
