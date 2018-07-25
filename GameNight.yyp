@@ -2129,6 +2129,25 @@
             }
         },
         {
+            "Key": "85984940-af97-48e3-8ec5-fbfec4cec228",
+            "Value": {
+                "id": "17a794b9-8f07-44cd-aa69-dfaa3aecb13a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_taiyakiblack\/s_taiyakiblack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "85aaaf93-60d9-495f-98fb-18a4a0945811",
             "Value": {
                 "id": "d691e3be-d725-4667-8929-b25d422508f4",
@@ -3117,6 +3136,25 @@
             }
         },
         {
+            "Key": "cdb33dcb-726f-48ad-a68c-1f8261cef793",
+            "Value": {
+                "id": "1d5584aa-0c82-4cbe-99c7-38f7fc527870",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_ghost_attack\/s_ghost_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ce336e0a-e1b0-4165-87a5-956a63028455",
             "Value": {
                 "id": "1c999fa9-6526-4f2f-a62b-e2b919d5ef17",
@@ -3288,6 +3326,25 @@
             }
         },
         {
+            "Key": "d6c1bf81-4d6d-49b2-932a-120a6c92d5be",
+            "Value": {
+                "id": "1ce4cae4-2b5a-4442-9b73-89b8a4f5929d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_taiyaki\/s_taiyaki.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d79a4004-4439-4d58-9638-dc0dad00dda8",
             "Value": {
                 "id": "30b8324b-091c-4b6c-8c92-74dabef87ca6",
@@ -3397,7 +3454,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite64\/sprite64.yy",
+                "resourcePath": "sprites\/s_player_attack_right\/s_player_attack_right.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -3722,25 +3779,6 @@
                 ],
                 "resourcePath": "objects\/o_hornet\/o_hornet.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "feb017e7-376e-4011-aa16-ed81d7a05989",
-            "Value": {
-                "id": "ed9fce78-d653-420e-b743-10e4631a1f0e",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/s_player_attack_right\/s_player_attack_right.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
