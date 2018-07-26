@@ -591,6 +591,25 @@
             }
         },
         {
+            "Key": "55d9764e-7da9-4e0d-8ac2-9821798220bd",
+            "Value": {
+                "id": "9e40eef4-ed70-437f-8328-a3850a7ac706",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/o_pyro_skull\/o_pyro_skull.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5824542f-03b8-41e0-a148-aa6f002b7e2e",
             "Value": {
                 "id": "8156f60d-7ccd-4efa-affa-3985564eb417",
@@ -916,6 +935,25 @@
                 "id": "de7612e5-b027-401b-9c2c-dbd9dc6e5c58",
                 "resourcePath": "scripts\/initialize_hurtbox_entity\/initialize_hurtbox_entity.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "85984940-af97-48e3-8ec5-fbfec4cec228",
+            "Value": {
+                "id": "17a794b9-8f07-44cd-aa69-dfaa3aecb13a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_taiyakiblack\/s_taiyakiblack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1359,6 +1397,25 @@
             }
         },
         {
+            "Key": "cdb33dcb-726f-48ad-a68c-1f8261cef793",
+            "Value": {
+                "id": "1d5584aa-0c82-4cbe-99c7-38f7fc527870",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_ghost_attack\/s_ghost_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ce336e0a-e1b0-4165-87a5-956a63028455",
             "Value": {
                 "id": "1c999fa9-6526-4f2f-a62b-e2b919d5ef17",
@@ -1431,6 +1488,25 @@
             }
         },
         {
+            "Key": "d6c1bf81-4d6d-49b2-932a-120a6c92d5be",
+            "Value": {
+                "id": "1ce4cae4-2b5a-4442-9b73-89b8a4f5929d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_taiyaki\/s_taiyaki.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d79a4004-4439-4d58-9638-dc0dad00dda8",
             "Value": {
                 "id": "30b8324b-091c-4b6c-8c92-74dabef87ca6",
@@ -1474,7 +1550,22 @@
             "Key": "e4d823bd-1e2d-4b83-be0b-6c722707bd81",
             "Value": {
                 "id": "5dd7e433-d98f-4ad6-918e-be9a94521de6",
+<<<<<<< HEAD
                 "resourcePath": "sprites\/sprite64\/sprite64.yy",
+=======
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/s_player_attack_right\/s_player_attack_right.yy",
+>>>>>>> 9f5ff84fc999ee5ca71f63d9b81f02b1d05a441d
                 "resourceType": "GMSprite"
             }
         },
@@ -1615,6 +1706,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "feb017e7-376e-4011-aa16-ed81d7a05989",
             "Value": {
                 "id": "ed9fce78-d653-420e-b743-10e4631a1f0e",
@@ -1623,6 +1715,8 @@
             }
         },
         {
+=======
+>>>>>>> 9f5ff84fc999ee5ca71f63d9b81f02b1d05a441d
             "Key": "ff38b7fd-acd6-4255-870e-068c392fc9f2",
             "Value": {
                 "id": "7d9db12c-96dd-4037-92ef-9a7dde410627",
