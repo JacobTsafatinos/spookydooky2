@@ -7,5 +7,5 @@ if global.player_health <= 0 and !invincible_ {
 }
 
 if(mouse_check_button(mb_left)){
-		instance_create_layer(mouse_x, mouse_y, "Text", o_textbox)
+		instance_create_layer(mouse_x, mouse_y, "Text", o_textbox);
 }

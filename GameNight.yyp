@@ -319,6 +319,14 @@
             }
         },
         {
+            "Key": "2ab2693b-f450-49c8-92fd-13c67fab87c3",
+            "Value": {
+                "id": "3cc29290-a2fe-4580-a8f4-f6d0f5c3c03c",
+                "resourcePath": "sprites\\sprite67\\sprite67.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2c01a56d-cee5-4c0d-9155-7b0af775f4fa",
             "Value": {
                 "id": "2f309a17-845c-4125-a7db-386109034222",
@@ -439,6 +447,14 @@
             }
         },
         {
+            "Key": "407851e9-dc91-431e-8109-40a2d78589a0",
+            "Value": {
+                "id": "2e357abd-4d19-422f-9444-4e59ddd1e61c",
+                "resourcePath": "objects\\o_textparent\\o_textparent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "407a4dd0-d606-4b8d-b10b-b83d795fa8f9",
             "Value": {
                 "id": "7de5306e-cca8-4687-9e3c-71fb2fc7fc5e",
@@ -527,6 +543,14 @@
             }
         },
         {
+            "Key": "4bbb2819-3160-4064-a77b-703121616030",
+            "Value": {
+                "id": "b9d2b4a8-ccac-47d4-8838-bff3df3da396",
+                "resourcePath": "objects\\o_texttest2\\o_texttest2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4da4f60d-359f-426d-a0b0-f6951b416926",
             "Value": {
                 "id": "623048eb-7a41-4175-9108-0653d5e011b3",
@@ -594,17 +618,6 @@
             "Key": "55d9764e-7da9-4e0d-8ac2-9821798220bd",
             "Value": {
                 "id": "9e40eef4-ed70-437f-8328-a3850a7ac706",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "objects\/o_pyro_skull\/o_pyro_skull.yy",
                 "resourceType": "GMObject"
             }
@@ -941,17 +954,6 @@
             "Key": "85984940-af97-48e3-8ec5-fbfec4cec228",
             "Value": {
                 "id": "17a794b9-8f07-44cd-aa69-dfaa3aecb13a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/s_taiyakiblack\/s_taiyakiblack.yy",
                 "resourceType": "GMSprite"
             }
@@ -994,6 +996,14 @@
                 "id": "89796bca-a06c-4ac6-8fad-fbc29b71ea0d",
                 "resourcePath": "objects\/o_start_position\/o_start_position.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8a765ef6-7f04-4fc7-ae50-d541ecfa527c",
+            "Value": {
+                "id": "64910f9b-b312-496b-a1e5-8aaf465a0059",
+                "resourcePath": "views\\8a765ef6-7f04-4fc7-ae50-d541ecfa527c.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1400,17 +1410,6 @@
             "Key": "cdb33dcb-726f-48ad-a68c-1f8261cef793",
             "Value": {
                 "id": "1d5584aa-0c82-4cbe-99c7-38f7fc527870",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/s_ghost_attack\/s_ghost_attack.yy",
                 "resourceType": "GMSprite"
             }
@@ -1491,17 +1490,6 @@
             "Key": "d6c1bf81-4d6d-49b2-932a-120a6c92d5be",
             "Value": {
                 "id": "1ce4cae4-2b5a-4442-9b73-89b8a4f5929d",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/s_taiyaki\/s_taiyaki.yy",
                 "resourceType": "GMSprite"
             }
@@ -1550,22 +1538,7 @@
             "Key": "e4d823bd-1e2d-4b83-be0b-6c722707bd81",
             "Value": {
                 "id": "5dd7e433-d98f-4ad6-918e-be9a94521de6",
-<<<<<<< HEAD
-                "resourcePath": "sprites\/sprite64\/sprite64.yy",
-=======
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
                 "resourcePath": "sprites\/s_player_attack_right\/s_player_attack_right.yy",
->>>>>>> 9f5ff84fc999ee5ca71f63d9b81f02b1d05a441d
                 "resourceType": "GMSprite"
             }
         },
@@ -1706,17 +1679,14 @@
             }
         },
         {
-<<<<<<< HEAD
             "Key": "feb017e7-376e-4011-aa16-ed81d7a05989",
             "Value": {
-                "id": "ed9fce78-d653-420e-b743-10e4631a1f0e",
-                "resourcePath": "sprites\/s_player_attack_right\/s_player_attack_right.yy",
+                "id": "145ac359-aded-4ebf-beda-b487e2387278",
+                "resourcePath": "sprites\\s_player_attack_right\\s_player_attack_right.yy",
                 "resourceType": "GMSprite"
             }
         },
         {
-=======
->>>>>>> 9f5ff84fc999ee5ca71f63d9b81f02b1d05a441d
             "Key": "ff38b7fd-acd6-4255-870e-068c392fc9f2",
             "Value": {
                 "id": "7d9db12c-96dd-4037-92ef-9a7dde410627",

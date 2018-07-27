@@ -24,16 +24,42 @@
     "layers": [
         {
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
+            "name": "Text",
+            "id": "4e586180-e780-470f-8043-6b85f0fb74e9",
+            "depth": 0,
+            "grid_x": 32,
+            "grid_y": 32,
+            "hierarchyFrozen": false,
+            "hierarchyVisible": true,
+            "inheritLayerDepth": false,
+            "inheritLayerSettings": false,
+            "inheritSubLayers": false,
+            "inheritVisibility": false,
+            "instances": [
+
+            ],
+            "layers": [
+
+            ],
+            "m_parentID": "00000000-0000-0000-0000-000000000000",
+            "m_serialiseFrozen": false,
+            "modelName": "GMRInstanceLayer",
+            "mvc": "1.0",
+            "userdefined_depth": false,
+            "visible": true
+        },
+        {
+            "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Effects",
             "id": "054b8802-ea07-49f1-b3cf-3c0f3c0d0d78",
-            "depth": 0,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": true,
             "inheritLayerSettings": true,
-            "inheritSubLayers": true,
+            "inheritSubLayers": false,
             "inheritVisibility": true,
             "instances": [
 
@@ -52,14 +78,14 @@
             "__type": "GMRInstanceLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Instances",
             "id": "acbb7bf5-bff9-407a-842a-eb65ebae6839",
-            "depth": 100,
+            "depth": 200,
             "grid_x": 8,
             "grid_y": 16,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": true,
             "inheritLayerSettings": true,
-            "inheritSubLayers": true,
+            "inheritSubLayers": false,
             "inheritVisibility": true,
             "instances": [
 {"name": "inst_7D78C1F9","id": "a08df158-2aec-4888-be63-d751e6303d80","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7D78C1F9","objId": "d217de2d-7c97-4f5c-9cd2-43ba61b9dd78","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 13,"mvc": "1.0","x": 16,"y": -16},
@@ -89,14 +115,14 @@
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Dirtwalls",
             "id": "0171940f-3919-41a0-8cb6-6e2e2889be0d",
-            "depth": 200,
+            "depth": 300,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": true,
             "inheritLayerSettings": true,
-            "inheritSubLayers": true,
+            "inheritSubLayers": false,
             "inheritVisibility": false,
             "layers": [
 
@@ -130,14 +156,14 @@
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Dirtpath",
             "id": "79ba07b5-2d8e-4f6c-bee3-8f6d59aea892",
-            "depth": 300,
+            "depth": 400,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "inheritLayerDepth": true,
             "inheritLayerSettings": true,
-            "inheritSubLayers": true,
+            "inheritSubLayers": false,
             "inheritVisibility": true,
             "layers": [
 
@@ -180,7 +206,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
-            "depth": 400,
+            "depth": 500,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -189,7 +215,7 @@
             "htiled": true,
             "inheritLayerDepth": true,
             "inheritLayerSettings": true,
-            "inheritSubLayers": true,
+            "inheritSubLayers": false,
             "inheritVisibility": true,
             "layers": [
 
