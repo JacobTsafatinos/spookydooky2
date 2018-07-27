@@ -24,7 +24,7 @@ if _x_input == 0 and _y_input == 0 {
 	
 }
 
-use_inventory_item(o_input.action_one_pressed_, global.item[0]);
+attack_script(o_input.action_one_pressed_);
 use_inventory_item(o_input.action_two_pressed_, global.item[1]);
 
 //if _attack_input == true {
