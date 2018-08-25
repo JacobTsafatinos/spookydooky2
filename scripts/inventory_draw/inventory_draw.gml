@@ -23,7 +23,6 @@ repeat (_array_size) {
 		if instance_exists(_item) {
 			draw_text(_x+4, _y+36, _item.description_);
 			var _description_height = string_height(_item.description_);
-			draw_text(_x+4, _y+48+_description_height, "Stamina Cost: " + string(_item.cost_));
 		}
 	}
 	_i++;

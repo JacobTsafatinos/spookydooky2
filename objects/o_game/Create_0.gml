@@ -10,9 +10,6 @@ draw_set_font(global.font);
 //variables
 global.player_max_health = 4;
 global.player_health = global.player_max_health;
-global.player_max_stamina = 3;
-global.player_stamina = global.player_max_stamina;
-global.player_gems = 0;
 global.player_start_position = i_game_start;
 
 //game music
