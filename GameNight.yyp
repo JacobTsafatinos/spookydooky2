@@ -704,6 +704,25 @@
             }
         },
         {
+            "Key": "24c4e47c-9c5e-4b9d-8a4a-2ef96f6c9b0f",
+            "Value": {
+                "id": "9e7c46c0-5bcb-4fdc-9b77-07b5f57b51d9",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/treenormal\/treenormal.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "27a0a15e-b726-4b0d-92fa-69ffae0a8774",
             "Value": {
                 "id": "c06d8363-cd2d-42fa-8495-1ccdc4b3aa54",
@@ -2145,6 +2164,25 @@
                 ],
                 "resourcePath": "views\/7d541aff-b544-4158-bedd-850ff821cdea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8032e4e1-60aa-4265-842e-779b36bf0480",
+            "Value": {
+                "id": "1f97ec94-a146-43e4-91b3-066e235c358b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/bushnormal\/bushnormal.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
