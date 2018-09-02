@@ -12,13 +12,13 @@ if sprite_exists(paused_sprite_) {
 }
 
 //draw player health
-var _hud_right_edge = 3+global.player_max_health*15;
-draw_sprite_ext(s_hud, 0, 0, _gui_height, _hud_right_edge, 1, 0, c_white, 1);
-draw_sprite(s_hud_edge, 0, _hud_right_edge, _gui_height);
+//var _hud_right_edge = 3+global.player_max_health*15;
+//draw_sprite_ext(s_hud, 0, 0, _gui_height, _hud_right_edge, 1, 0, c_white, 1);
+//draw_sprite(s_hud_edge, 0, _hud_right_edge, _gui_height);
 
 for (var _i=0; _i < global.player_max_health; _i++) {
 	var _filled = _i < global.player_health;
-	draw_sprite(s_heart_ui, _filled, 4 + 15 * _i, _gui_height-29);
+	draw_sprite(s_heart_ui, _filled, 4 + 15 * _i, _gui_height-175);
 	//bottom use _gui_height-29
 	//top use 4
 }

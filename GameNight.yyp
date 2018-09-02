@@ -1578,25 +1578,6 @@
             }
         },
         {
-            "Key": "617938bc-82bb-4971-980d-e4676d1d3d55",
-            "Value": {
-                "id": "c2d39932-26cc-42e4-8fa4-ed806abac1af",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sounds\/a_music\/a_music.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "63e65c26-b445-488a-93bb-716179152f7e",
             "Value": {
                 "id": "c774caae-075a-49dd-a7c7-ed11d7bbc22a",
@@ -2620,6 +2601,25 @@
                 ],
                 "resourcePath": "sprites\/s_player_attack_up\/s_player_attack_up.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9fbd1637-6390-4038-a707-407b6fb71059",
+            "Value": {
+                "id": "0faff9a1-f883-4fc7-8918-4f396ffd9c7c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/a_music\/a_music.yy",
+                "resourceType": "GMSound"
             }
         },
         {
